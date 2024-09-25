@@ -1,7 +1,7 @@
 
 # <p align=center>Hello Everyone! I'm [Annepaka Aditya](https://github.com/95-Aditya)</p>
-<br>
-<p align="center"><h3 align="center"><samp> A  DATA ENTHUSIAST </samp></h3></p>
+
+<p align="center"><h3 align="center"><samp> A DATA ENTHUSIAST </samp></h3></p>
 
 - 👋 Hi, My name is Annepaka Aditya and I'm from Vizag.
 - 👀 I’m interested in learning more insights about DATA.
