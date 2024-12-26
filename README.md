@@ -31,7 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-<p><b>Acquired some good knowledge in Python and basic knowledge in (HTML and CSS) from Python Life which is a E-Learning Provider based in Hyderabad and also had basic knowledge in PostgreSQL which I learned in Udemy.</b></p>
+<p><b>Acquired good knowledge in Python and basic knowledge in (HTML and CSS) from Python Life which is a E-Learning Provider based in Hyderabad and also had basic knowledge in PostgreSQL which I learned in Udemy.</b></p>
 
 ##
 <h3><b><samp>Tools And Platform</samp></b></h3>
